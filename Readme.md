@@ -2,7 +2,7 @@
 
 ตัวอย่างการใช้งาน Github
 
-## Set UP Project
+## Set up
 ```
 npm install
 ```
